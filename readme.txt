@@ -12,3 +12,4 @@ hi
 git what's wrong
 i don't know
 well .good 5.0
+i have a try 6.0
