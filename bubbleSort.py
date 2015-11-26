@@ -1,3 +1,13 @@
+#!uer/bin/python
+#coding: utf-8
+import random
+
+def randomli(num):
+	lis = []
+	for i in range(0, num):
+		lis.append(random.randint(1, num))
+	return lis
+	
 def bubbleSortUp(li):
 	n = len(li)
 	for i in range(n):
@@ -33,7 +43,7 @@ def selectSortUp(li):
 
 
 
-t = [3, 1, 4, 1, 5, 9]
+t = randomli(5)
 print t
 t = bubbleSortUp(t)
 print t
