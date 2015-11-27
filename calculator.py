@@ -32,4 +32,6 @@ def cal(w):
     for i in store:
         if i != '':
             countMain = countMain + float(i)
+    if countMain == int(countMain):
+    	countMain = int(countMain)
     return countMain
