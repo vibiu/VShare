@@ -3,6 +3,6 @@ just for python
 
 items:
 
-linear_algebra.py ------------------ 线性代数相关
+learn-------------for learn
 
 coming soon...
