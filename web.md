@@ -32,3 +32,7 @@
 [vim进阶](http://easwy.com/blog/archives/advanced-vim-skills-cscope/)
 
 [vim配置](http://www.wklken.me/posts/2013/06/11/linux-my-vim.html#vim)
+
+[vim & pathogen & git](http://lostjs.com/2012/02/04/use-pathogen-and-git-to-manage-vimfiles/)
+
+
