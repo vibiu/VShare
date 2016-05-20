@@ -122,10 +122,16 @@ bs4的解析方式相当好理解，可以快速上手，解析速度也不错(�
 
 [为什么要分布式?](https://www.zhihu.com/question/27457563)
 
-如何分布式？ [scrapy](https://github.com/scrapy/scrapy)([文档](http://doc.scrapy.org/en/latest/))是一个用python写的强大的爬虫工具，比较高级，还不会，据说能实现分布式。
-![scrapy](http://cuiqingcai.com/2433.html)
+如何分布式？ 
+
+[scrapy](https://github.com/scrapy/scrapy)([文档](http://doc.scrapy.org/en/latest/))是一个用python写的强大的爬虫工具，比较高级，还不会，据说能实现分布式。
+
+![scrapy](http://newtonblogimg.qiniudn.com/Scrapy%20Architecture.png)
+
 [Cola](https://github.com/chineking/cola)是一个分布式的爬虫框架,没用过。
+
 ![colo](http://img.blog.csdn.net/20141217235604129?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvY2hkaHVzdA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
+
 主要思想：设计一个合理的url搜索策略，使用中心主机控制分机对站点没命地爬取和存储。
 
 ### 突破动态加载
