@@ -1,0 +1,5 @@
+[submodule "git/gitgitgit"]
+  path = git/gitgitgit
+  url = https://github.com/vibiu/gitgitgit.git
+  ignore = untracked
+
