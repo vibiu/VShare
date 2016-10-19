@@ -72,6 +72,7 @@ see [Ncuhome Backend-guide](https://github.com/ncuhome/backend-guide)
 
 ### Anaconda
 [Anaconda Guide](https://rhinstaller.github.io/anaconda/)
+
     Preferences>Package Settings>Anaconda>Setting-User/:
         {
             "python_interpreter":"/usr/bin/python",
