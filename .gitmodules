@@ -1,5 +1,9 @@
 [submodule "git/gitgitgit"]
-  path = git/gitgitgit
+  path = git/gitgitgitS
   url = https://github.com/vibiu/gitgitgit.git
   ignore = untracked
 
+[submodule "git/xiaohuangpian"]
+    path = git/xiaohuangpian
+    url = https://github.com/vibiu/xiaohuangpian
+    ignore = untracked
