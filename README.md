@@ -1,8 +1,9 @@
 # vibiu-s-python
-just for python 
+just for python
 
 items:
 
-learn-------------for learn
+pyspy------------- thinking about python spider
+git--------------- lore of git
 
 coming soon...

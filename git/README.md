@@ -188,7 +188,9 @@ see [rebase用法](http://gitbook.liuhui998.com/4_2.html)
 visit [gitignore not working](http://stackoverflow.com/questions/11451535/gitignore-not-working)
 
 .gitmodules是用来引用git上的其他包
-  
+
     $ git submodule  init
     $ git submodule update
 
+## git小游戏
+一个用ruby写的git通关游戏 [闯过这54关，点亮你的Git技能树](https://codingstyle.cn/topics/51)
