@@ -135,4 +135,4 @@ see more:
 
 [Jerry Qu - HTTP 协议中 Vary 的一些研究](https://imququ.com/post/vary-header-in-http.html)
 
-[List of HTTP header fields[(https://en.wikipedia.org/wiki/List_of_HTTP_header_fields)
+[List of HTTP header fields](https://en.wikipedia.org/wiki/List_of_HTTP_header_fields)
